@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9CA8C02A27721F720047E074 /* ButtonsConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA8C02927721F720047E074 /* ButtonsConfig.swift */; };
 		9CD75E482771F44A00EC58D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD75E472771F44A00EC58D9 /* AppDelegate.swift */; };
 		9CD75E4A2771F44A00EC58D9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD75E492771F44A00EC58D9 /* SceneDelegate.swift */; };
 		9CD75E4C2771F44A00EC58D9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD75E4B2771F44A00EC58D9 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9CA8C02927721F720047E074 /* ButtonsConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsConfig.swift; sourceTree = "<group>"; };
 		9CD75E442771F44A00EC58D9 /* testButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CD75E472771F44A00EC58D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9CD75E492771F44A00EC58D9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				9CD75E472771F44A00EC58D9 /* AppDelegate.swift */,
 				9CD75E492771F44A00EC58D9 /* SceneDelegate.swift */,
 				9CD75E4B2771F44A00EC58D9 /* ViewController.swift */,
+				9CA8C02927721F720047E074 /* ButtonsConfig.swift */,
 				9CD75E4D2771F44A00EC58D9 /* Main.storyboard */,
 				9CD75E502771F44B00EC58D9 /* Assets.xcassets */,
 				9CD75E522771F44B00EC58D9 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				9CD75E4C2771F44A00EC58D9 /* ViewController.swift in Sources */,
 				9CD75E482771F44A00EC58D9 /* AppDelegate.swift in Sources */,
 				9CD75E4A2771F44A00EC58D9 /* SceneDelegate.swift in Sources */,
+				9CA8C02A27721F720047E074 /* ButtonsConfig.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
